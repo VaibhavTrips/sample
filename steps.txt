@@ -1,0 +1,9 @@
+step1 for GIT: create the git repository folder on local disk
+step2 now use git clone website address.
+step3 add a file to the repository.
+step4 now use git add "file".extention
+step5 now enter user name and email-
+      git config --global user.email "....."
+      git config --global user.name "....."
+step6 now use git commit file.txt -m "anything in text"
+atep7 now use git push origin master.
